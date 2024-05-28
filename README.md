@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Bem vindos ao meu perfil! 💝
 
-<!--
-**professoralego/professoralego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+//Linguagem markdown // dois pontos para emoji + a palavra em inglês // colar gif do tenor ! [()}
 
-Here are some ideas to get you started:
+Olá sou Léia Gomes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sou professora na escola Antônio Lerário;
+- Estou estudando na [Alura](https://cursos.alura.com.br)
+- Aprendendo projetos no [Scratch](https://scratch.mit.edu)
+- 📧 leiagomes@prof.educacao.sp.gov.br
+
+   ![](https://media.tenor.com/r67zEMX27VIAAAAi/kisses-blowing.gif)
+
